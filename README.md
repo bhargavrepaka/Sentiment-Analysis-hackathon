@@ -1,6 +1,6 @@
-﻿*TITLE*
 
-*EmoGroove: Crafting Sentimental Soundscapes from Social Streams*
+
+**EmoGroove: Crafting Sentimental Soundscapes from Social Streams**
 
 PROBLEM STATEMENT: 
 
